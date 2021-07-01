@@ -66,7 +66,7 @@ eksctl create nodegroup --cluster=eksdemo1 \
                         --ssh-access \
                         --ssh-public-key=kube-demo \
                         --managed \
-                        --asg-access \
+                        --asg-a
                         --external-dns-access \
                         --full-ecr-access \
                         --appmesh-access \
